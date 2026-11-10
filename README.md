@@ -1,5 +1,3 @@
-# Mercado_Laboral_NEA_EPH_2026T1
-Análisis de empleo, educación e ingresos en los aglomerados urbanos del NEA argentino con microdatos de la EPH (INDEC, 1.er trim. 2026). Limpieza y validación en Python y dashboard en Power BI con indicadores ponderados.
 # Empleo, educación e ingresos en el NEA argentino (EPH, 1.er trimestre 2026)
 
 Este proyecto analiza la relación entre el nivel educativo y la situación laboral en los aglomerados urbanos de la región Noreste Argentino (NEA) a partir de los microdatos de la Encuesta Permanente de Hogares (EPH) del INDEC, primer trimestre de 2026.
