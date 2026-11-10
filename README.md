@@ -74,7 +74,7 @@ La limpieza y el análisis exploratorio se realizaron en Python (Google Colab y 
 
 ## Herramientas utilizadas
 
-- **Python** (pandas) en **Google Colab**: limpieza, exploración y validación.
+- **Python** (pandas, matplotlib) en **Google Colab**: limpieza, exploración, graficos y validación.
 - **Power BI Desktop**: Power Query, modelado de datos, medidas DAX y dashboard.
 - **GitHub**: control de versiones y publicación.
 
@@ -178,6 +178,6 @@ dashboard/   → archivo de Power BI (Dashboard_Mercado_Laboral_NEA_EPH_2026T1.p
 
 ## Licencia y autoría
 
-© 2026 – Proyecto realizado por [Tu Nombre]
+© 2026 – Proyecto realizado por Tamara Griselda Orquera
 Fuente de los datos: Encuesta Permanente de Hogares, INDEC.
 Licencia: Creative Commons Attribution 4.0
